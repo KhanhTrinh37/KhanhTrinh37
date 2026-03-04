@@ -10,7 +10,7 @@
 
 ##  About Me
 
-- 🔧 iOS Modding & Runtime Manipulation  
+-  iOS Modding & Runtime Manipulation  
 -  Focused on ARM64, Hooking, Memory Analysis  
 -  Clean & optimized native implementations  
 -  Contact: **minhkhanh285@gmail.com**  
