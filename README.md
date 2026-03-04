@@ -8,14 +8,14 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🔧 iOS Modding & Runtime Manipulation  
-- 🧠 Focused on ARM64, Hooking, Memory Analysis  
-- ⚡ Clean & optimized native implementations  
-- 📫 Contact: **minhkhanh285@gmail.com**  
-- 🌐 Projects: **https://sudohax.co**  
-- 🤫 Fun fact: Introvert but love debugging at 3AM  
+-  Focused on ARM64, Hooking, Memory Analysis  
+-  Clean & optimized native implementations  
+-  Contact: **minhkhanh285@gmail.com**  
+-  Projects: **https://sudohax.co**  
+-  Fun fact: Introvert but love debugging at 3AM  
 
 ---
 
@@ -31,20 +31,7 @@
 - ARM64 Assembly
 - Theos / Xcode
 - Runtime Hooking
-- Mach Exception Handling
 - IL2CPP Analysis
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KhanhTrinh37&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhanhTrinh37&show_icons=true&theme=tokyonight" />
-</p>
 
 ---
 
