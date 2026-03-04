@@ -1,48 +1,52 @@
-# 👋 Hi, I'm Khanh
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=56&duration=2000&pause=1000&center=true&vCenter=true&width=1000&height=70&lines=I'm+Khanh;ARM64+Reverse+Engineer;Low-level+iOS+Developer)]()
 
-### iOS Modder | Low-level Developer | ARM64
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=KhanhTrinh37&label=Profile%20Views&color=0e75b6&style=flat" alt="KhanhTrinh37" />
-</p>
-
----
-
-##  About Me
-
--  iOS Modding & Runtime Manipulation  
--  Focused on ARM64, Hooking, Memory Analysis  
--  Clean & optimized native implementations  
--  Contact: **minhkhanh285@gmail.com**  
--  Projects: **https://sudohax.co**  
--  Fun fact: Introvert but love debugging at 3AM  
+<div align="center">
+  <a href="mailto:minhkhanh285@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+  </a>&nbsp;
+  <a href="https://sudohax.co">
+    <img src="https://img.shields.io/badge/-Website-3884FF?style=for-the-badge&logo=google-chrome&logoColor=white" height="30"/>
+  </a>&nbsp;
+  <a href="https://github.com/KhanhTrinh37">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+  </a>
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 What I Do
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,apple,laravel" />
-</p>
+- Reverse engineering **iOS & mobile binaries**
+- ARM64 runtime analysis
+- Mach exception & hardware breakpoint hooking
+- IL2CPP structure analysis
+- Building native IMGUI systems
+- Memory manipulation & runtime control
 
-**Core Focus:**
+---
+
+## ⚙️ Core Stack
+
 - C / C++
 - Objective-C / Objective-C++
 - ARM64 Assembly
 - Theos / Xcode
-- Runtime Hooking
-- IL2CPP Analysis
+- LLDB / IDA / Hopper
 
 ---
 
-## 🔗 Connect With Me
+## 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://github.com/KhanhTrinh37" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=KhanhTrinh37&show_icons=true&theme=radical&cache_seconds=21600"
+  />
+  <br />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhTrinh37&layout=compact&theme=radical&cache_seconds=21600"
+  />
 </p>
 
 ---
 
-> “Control the runtime, control the system.”
+> “Understand the binary. Control the runtime.”
