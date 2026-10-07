@@ -8,19 +8,10 @@
 
 ---
 
-##  About Me
-
--  iOS Modding & Runtime Manipulation  
--  Focused on ARM64, Hooking, Memory Analysis  
--  Clean & optimized native implementations  
--  Fun fact: Introvert but love debugging at 3AM  
-
----
-
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,apple,laravel" />
+  <img src="https://skillicons.dev/icons?i=c,cpp" />
 </p>
 
 ---
