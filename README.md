@@ -8,22 +8,4 @@
 
 ---
 
-## 🛠 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp" />
-</p>
-
----
-
-## 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/KhanhTrinh37" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
-</p>
-
----
-
 > “Control the runtime, control the system.”
