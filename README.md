@@ -13,8 +13,6 @@
 -  iOS Modding & Runtime Manipulation  
 -  Focused on ARM64, Hooking, Memory Analysis  
 -  Clean & optimized native implementations  
--  Contact: **minhkhanh285@gmail.com**  
--  Projects: **https://sudohax.co**  
 -  Fun fact: Introvert but love debugging at 3AM  
 
 ---
@@ -24,14 +22,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,apple,laravel" />
 </p>
-
-**Core Focus:**
-- C / C++
-- Objective-C / Objective-C++
-- ARM64 Assembly
-- Theos / Xcode
-- Runtime Hooking
-- IL2CPP Analysis
 
 ---
 
